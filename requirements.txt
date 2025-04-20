@@ -1,2 +1,5 @@
-streamlit
-skit
+streamlit 
+scikit-learn
+numpy
+pandas
+
